@@ -5,7 +5,7 @@ Convert any URL into a QR code instantly! Enter a link, generate the QR code, an
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/qr-link-generator.git
+   git clone https://github.com/sohamsekhar/qr-link-generator.git
 
 2. Navigate to the project folder:
    cd qr-link-generator
